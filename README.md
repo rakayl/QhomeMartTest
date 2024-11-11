@@ -11,3 +11,5 @@ PHP Version 8.0
 6. Jalankan "php artisan migrate"
 7. Jalankan "php artisan db:seed"
 8. Jalankan "php aritsan serve"
+9. Import File Test.postman_collection kedalam postman 
+
